@@ -1,5 +1,5 @@
 # DHHB-COURSE-PROJECT
-Course project for Digital Healt and Human Behavior -course at Aalto University.
+Course project for Digital Health and Human Behavior -course at Aalto University.
 
 In this report I will introduce a project where I explore data collected by FitBit activitytracking wristwatches to find some interesting correlations for example between sleep, and activity level, and also to identify different patterns in the participants’ lifestyles. I also want to explore, how background information of the participants, such as body mass and body mass index, affect their health behavior. Moreover, the aim of this project is to make conclusions both on individual and community level lifestyles and habits and compare the results to the recommended values estimated by scientific papers.
 
